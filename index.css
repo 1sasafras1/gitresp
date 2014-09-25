@@ -10,5 +10,37 @@ left: 300px;
 }
 .mainbody{
 position: absolute;
+top: 15%;
+left: 12%;
+}
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li.menu{
+float: left;
+}
+a.menu{
+    display: block;
+    width: 120px;
+	font-weight: bold;
+	color: black;
+	background-color: #66FF66;
+	text-align: center;
+	padding: 4px
+	}
+div.menu{
+position: absolute;
 top: 10%;
+}
+.menuhead{
+    display: block;
+    width: 120px;
+	font-weight: bold;
+	color: black;
+	background-color: #66FF66;
+	text-align: center;
+	padding: 4px
 }
