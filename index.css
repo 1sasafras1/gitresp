@@ -1,0 +1,14 @@
+body{
+background-color:  #0091ff;
+color: white;
+font-family: 'Montserrat Alternates', sans-serif;
+}
+#couchpicright{
+float: right;
+}
+#couchpicleft{
+float: left;
+}
+#couchhead{
+text-align: center;
+}
