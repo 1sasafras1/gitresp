@@ -3,12 +3,12 @@ background-color:  #0091ff;
 color: white;
 font-family: 'Montserrat Alternates', sans-serif;
 }
-#couchpicright{
-float: right;
+.couchhead{
+position: absolute;
+top: 15px;
+left: 300px;
 }
-#couchpicleft{
-float: left;
-}
-#couchhead{
-text-align: center;
+.mainbody{
+position: absolute;
+top: 10%;
 }
